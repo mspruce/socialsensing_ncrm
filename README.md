@@ -3,7 +3,7 @@
 Jupyter workbook required for exercise analysing and mapping 'fracking' tweets.
 
 Recommend creating a new virtual environment to run this workbook in.
-Install any packages not already installed from the import list at the top of the workbook.
+Install any packages in the import list at the top of the workbook not already installed using pip or conda.
 
 Tweet files have already been process through the social sensing algorithm and contain location coordinates for each tweet.
 
