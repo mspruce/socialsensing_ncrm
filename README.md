@@ -7,7 +7,8 @@ Jupyter workbook required for exercise analysing and mapping 'fracking' tweets.
 "fracking_maptweets_ncrm_completed.ipynb" contains exercise with completed code (try not to look at this until you've had a go at the workbook version!)
 
 Recommend creating a new virtual environment to run this workbook in.
-Install any packages in the import list at the top of the workbook not already installed using pip or conda.
+Install any packages in the import list at the top of the workbook not already installed using pip or conda. 
+The requirements.txt file is also available to see package list and versions. 
 
 Tweet files have already been processed through the social sensing algorithm to filter for relevance and location in the UK. Each tweet contains location coordinates for it's inferred location.
 
